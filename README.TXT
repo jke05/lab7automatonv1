@@ -1,10 +1,2 @@
-Project: automaton
-Aothors: David J. Barnes and Michael Kölling
-
-This project is part of the material of the book
-
-   Objects First with Java - A Practical Introduction using BlueJ
-   Seventh edition
-   David J. Barnes and Michael Kölling
-
-It is discussed in chapter 7.
+27. No
+28. Sets all the elements of the array to 0
