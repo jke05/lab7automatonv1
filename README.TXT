@@ -42,4 +42,7 @@ You only need to keep track of one old value at a time.
         }
         state = nextState;
     }   
-34. 
+34. public int calculateNextState(int left, int center, int right){
+        return (left + center + right) % 2;
+    }
+35. 
